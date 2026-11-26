@@ -48,7 +48,27 @@ def load_dictionary(choice):
         },
 
         "Yoruba": {
-          
+          "hello": "bawo ni",
+            "thank you": "ẹ ṣé",
+            "yes": "bẹ́ẹ̀ni",
+            "no": "bẹ́ẹ̀ kọ́",
+            "water": "omi",
+            "food": "ounjẹ",
+            "house": "ilé",
+            "mother": "ìyá",
+            "father": "bàbá",
+            "child": "ọmọ",
+            "friend": "ọ̀rẹ́",
+            "book": "ìwé",
+            "school": "ilé-ẹ̀kọ́",
+            "market": "ọjà",
+            "eat": "jẹ",
+            "go": "lọ",
+            "come": "wá",
+            "sun": "òòrùn",
+            "rain": "òjò",
+            "dog": "ajá"
+
         },
 
         "Eggon": {
