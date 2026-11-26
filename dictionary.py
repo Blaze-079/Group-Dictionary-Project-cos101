@@ -75,7 +75,26 @@ def load_dictionary(choice):
         },
 
         "Igala": {
-          
+            "hello": "kóma",
+            "thank you": "nago",
+            "yes": "ehe",
+            "no": "kó",
+            "water": "nima",
+            "food": "ẹnyọ",
+            "house": "ọma",
+            "mother": "nna",
+            "father": "baba",
+            "child": "ọmọ",
+            "friend": "ẹka",
+            "book": "taka",
+            "school": "ẹkọ",
+            "market": "ọja",
+            "eat": "nya",
+            "go": "la",
+            "come": "wa",
+            "sun": "ọjọ",
+            "rain": "ẹma",
+            "dog": "ẹja"
         }
     }
 
