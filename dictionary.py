@@ -25,7 +25,26 @@ def load_dictionary(choice):
         },
 
         "Hausa": {
-  
+           "hello": "sannu",
+            "thank you": "na gode",
+            "yes": "eh",
+            "no": "a'a",
+            "water": "ruwa",
+            "food": "abinci",
+            "house": "gida",
+            "mother": "uwa",
+            "father": "uba",
+            "child": "yaro",
+            "friend": "aboki",
+            "book": "littafi",
+            "school": "makaranta",
+            "market": "kasuwa",
+            "eat": "ci",
+            "go": "tafi",
+            "come": "zo",
+            "sun": "rana",
+            "rain": "ruwan sama",
+            "dog": "kare"
         },
 
         "Yoruba": {
