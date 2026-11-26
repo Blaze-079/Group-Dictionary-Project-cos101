@@ -21,7 +21,26 @@ def load_dictionary(choice):
 
     dictionary = {
         "Nupe": {
-          
+            "hello": "kówo",
+            "thank you": "nago",
+            "yes": "ehen",
+            "no": "ká",
+            "water": "nuwan",
+            "food": "eyangici",
+            "house": "emi",
+            "mother": "nna",
+            "father": "baba",
+            "child": "dzankan",
+            "friend": "eya",
+            "book": "takada",
+            "school": "makanta",
+            "market": "dzuko",
+            "eat": "gi",
+            "go": "tá",
+            "come": "wá",
+            "sun": "yigidi",
+            "rain": "ele",
+            "dog": "eshigi"
         },
 
         "Hausa": {
